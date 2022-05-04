@@ -1,3 +1,2 @@
 - Hi, I’m @Deznic
-- I’m currently learning LWJGL
-- I will record my proggres for 30 day of learning LWJGL
+- I will record my progress for 30 day of coding
