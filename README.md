@@ -1,2 +1,1 @@
-- Hi, I’m @Deznic
-- I will record my progress for 30 day of coding
+
